@@ -1,0 +1,4 @@
+ rules = [#Rule(SgmlLinkExtractor(allow=[r'http://news\.fx168\.com/all/list_1\.shtml']), follow=True), 
+    	# for the pager
+    	Rule(SgmlLinkExtractor(allow=[r'http://news\.fx168\.com/\w+/\d+\.shtml']), callback='parse_news')]
+    	# for the news page
