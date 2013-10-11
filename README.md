@@ -18,8 +18,8 @@ then write the spider class which realises the process of how content should be 
 then the pipeline class which define the way data is stored
 
 In the end , I want to mention that I have set the grabing tast as a routine in my linux system, using the crontab
-you can google it about how to use this powerful task schedule tool.
+which you can google and then know  how to use this powerful task schedule tool.
 
-And the code to run the spider from script is listed in the script.py
+And the codes to run the spider from script is listed in the script.py
 
 This project works very well on my computer, have fun!
