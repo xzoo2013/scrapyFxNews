@@ -17,7 +17,7 @@ Second create the spider class which realize the process of content grabbing
 
 Third create the pipeline class which define the way data is stored
 
-In the end , I want to mention that I have set the grap task as a routine in my linux system, using the crontab
+In the end , I want to mention that I have set the grab task as a routine in my linux system, using the crontab
 which you can google and then know  how to use this powerful task schedule tool.
 
 And the codes to run the spider from script is listed in the script.py
